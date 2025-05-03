@@ -16,4 +16,4 @@ My tech stacks and skilss
 
 ---
 
-![https://github-readme-stats.vercel.app/api?username=mezaaf&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=mezaaf&hide=contribs,prs,issues&show_icons=true&theme=midnight-purple)
+![https://github-readme-stats.vercel.app/api?username=mezaaf&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=mezaaf&hide=contribs,prs,issues&show_icons=true&theme=midnight-purple&hide_border=true)
