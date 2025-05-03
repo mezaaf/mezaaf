@@ -4,6 +4,8 @@
  </span>Code, Story, and Beyound
  </h2>
 
+[![Linkedin](https://img.shields.io/badge/mezaaf-linkedin-blue)](https://www.linkedin.com/in/marchendaezafuwandhana) [![Instagram](https://img.shields.io/badge/mezaaf-Instagram-E4405F)](https://www.instagram.com/mezaafsopsepoken)
+
 ##### Web Developer 🚀 | Tech Enthusiast 💡
 
 Hi! I’m a passionate and adaptable Software Engineer with a solid foundation in full-stack development. Recently graduated, I specialize in JavaScript, TypeScript, Node.js, React.js, and modern web technologies. I’ve completed an intensive bootcamp to sharpen my skills.
