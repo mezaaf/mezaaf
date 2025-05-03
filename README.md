@@ -28,6 +28,12 @@ My tech stacks and skilss
 
 ---
 
+###
+
+<img src="https://raw.githubusercontent.com/mezaaf/mezaaf/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="center">
   <img height="150" width="150" src="left.webp"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mezaaf&theme=midnight-purple&hide_border=true"/>
@@ -57,9 +63,3 @@ My tech stacks and skilss
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mezaaf/mezaaf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mezaaf/mezaaf/output/pacman-contribution-graph.svg">
 </picture> -->
-
-###
-
-<img src="https://raw.githubusercontent.com/mezaaf/mezaaf/output/snake.svg" alt="Snake animation" />
-
-###
