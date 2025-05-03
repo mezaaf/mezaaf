@@ -1,8 +1,10 @@
-## 👋 Code, Story and Beyound
+ <h2>
+ <span>
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Icon" width="30" />
+ </span>Code, Story, and Beyound
+ </h2>
 
 ##### Web Developer 🚀 | Tech Enthusiast 💡
-
-##### Welcome to my kitchen!
 
 Hi! I’m a passionate and adaptable Software Engineer with a solid foundation in full-stack development. Recently graduated, I specialize in JavaScript, TypeScript, Node.js, React.js, and modern web technologies. I’ve completed an intensive bootcamp to sharpen my skills.
 
